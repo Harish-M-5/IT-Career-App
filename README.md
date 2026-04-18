@@ -2,7 +2,7 @@
 
 A **Complete All‑in‑One IT Career Platform** for Students, Freshers, and Developers.
 
-This application provides **Coding Practice, Interview Preparation, AI Tools, Job Links, Learning Platforms, Notes, and Career Resources** — all inside a **single React application**.
+This application provides **Coding Practice, Interview Preparation, AI Tools, Project tools, Cloud,Job Links, Learning Platforms, Notes, and Career Resources** — all inside a **single React application**.
 
 ---
 
