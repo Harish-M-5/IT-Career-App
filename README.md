@@ -23,7 +23,7 @@ Instead of searching multiple websites, users can open **one application** and a
 * Cloud technology
 * Project tools
 
-This improves **productivity, learning speed, and career preparation**.
+This improves **productivity, learning speed, and career preparation**
 
 ---
 
@@ -205,7 +205,7 @@ The UI contains:
 
 ### Navbar
 
-Shows project title and description
+Shows project titles and description
 
 ### Section Cards
 
